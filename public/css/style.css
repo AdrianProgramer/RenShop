@@ -1,0 +1,13 @@
+.jumbotron > .container > img{
+    border-radius: 30px;
+}
+.row .this img {
+    border-radius: 30px;
+}
+.my-form {
+    border:3px solid black;
+    margin: 20%;
+}
+.my-form > form{
+    margin: 50px;
+}
